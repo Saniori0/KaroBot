@@ -1,0 +1,16 @@
+{
+    "name": "karo/center",
+    "description": "KaroNet Center v0.1",
+    "autoload": {
+        "psr-4": {
+            "Karo\\Center\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saniori",
+            "email": "rodion2992@gmail.com"
+        }
+    ],
+    "require": {}
+}
